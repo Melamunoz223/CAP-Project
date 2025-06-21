@@ -1,0 +1,10 @@
+id,email,firstname,lastname,country,createon,deliverydate,orderestatus_code,imageurl
+1,juan.perez@mail.com,Juan,Pérez,Colombia,2025-06-01,2025-06-05,INPROGRESS,https://i.pinimg.com/originals/c7/f9/5d/c7f95dc56ec6d7ab2400c9a2d1cdabb4.jpg
+3,carlos.ramirez@mail.com,Carlos,Ramírez,Argentina,2025-06-03,2025-06-10,CANCELED,https://i.pinimg.com/236x/5b/4c/1b/5b4c1b685855d0b3fbb06feaa64beaf8.jpg
+4,ana.gomez@mail.com,Ana,Gómez,Chile,2025-06-04,2025-06-09,INPROGRESS,https://i.pinimg.com/originals/af/a4/58/afa45850e32dec8b2adb910e4fd5a4ac.png
+5,luis.torres@mail.com,Luis,Torres,Perú,2025-06-05,2025-06-12,INPROGRESS,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSCj2i2f_Yv9gQ3gq9C2d7Hnx3itsQnyVm4uMIBmcFBudOuXCIOukSAyiGCcIj4BqbRiE&usqp=CAU
+6,sofia.martinez@mail.com,Sofía,Martínez,Uruguay,2025-06-06,2025-06-13,INPROGRESS,https://i.pinimg.com/originals/72/c6/41/72c64186e014979391e63282ef5f40da.jpg
+7,diego.fernandez@mail.com,Diego,Fernández,Ecuador,2025-06-07,2025-06-14,LowAvailability,https://i.pinimg.com/originals/2b/9f/78/2b9f780094a22168e8c528d2d224da0c.jpg
+8,laura.rodriguez@mail.com,Laura,Rodríguez,Colombia,2025-06-08,2025-06-15,LowAvailability,https://i.pinimg.com/736x/48/03/90/480390864cad72a2e438dac15b36f0d2.jpg
+9,ricardo.mendoza@mail.com,Ricardo,Mendoza,Bolivia,2025-06-09,2025-06-16,CANCELED,https://i.pinimg.com/736x/02/01/2c/02012c56026a4133b54143a63a7ee6ac.jpg
+10,valentina.soto@mail.com,Valentina,Soto,Paraguay,2025-06-10,2025-06-17,LowAvailability,https://i.pinimg.com/236x/34/98/fe/3498fe6b1b4ab16e82f368482af26222.jpg

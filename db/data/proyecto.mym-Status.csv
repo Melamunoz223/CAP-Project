@@ -1,0 +1,4 @@
+code,name,criticality
+CANCELED, Canceled, 1
+INPROGRESS, In progress, 2
+LowAvailability, Low Availability, 3

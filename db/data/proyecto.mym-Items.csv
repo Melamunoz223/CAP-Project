@@ -1,0 +1,23 @@
+Id,name,description,releasedate,discontinuedate,price,height,width,depth,quantity,unitofmeasure,IdHead_id,currency_code
+1,Mouse Inalámbrico,"Mouse óptico inalámbrico",2023-01-01,2026-01-01,27000,4.5,6.0,3.0,1,CM,1,COP
+2,Teclado Mecánico,"Teclado con retroiluminación",2023-03-10,2026-03-10,85000,2.0,30.0,12.0,1,MM,1,COP
+3,Camiseta Negra,"Camiseta de algodón",2024-06-01,2026-06-01,20000,1.0,20.0,30.0,2,CM,2,MXN
+4,Jean Azul,"Pantalón denim clásico",2024-07-01,2026-07-01,95000,1.5,35.0,40.0,1,CM,2,MXN
+5,Audífonos Bluetooth,"Audífonos inalámbricos con cancelación",2024-01-05,2026-01-05,110000,3.0,15.0,10.0,1,CM,3,ARS
+6,Power Bank,"Batería portátil 10000mAh",2024-01-15,2026-01-15,60000,2.0,8.0,2.0,1,CM,3,ARS
+7,Cuaderno Profesional,"Cuaderno de notas 200 páginas",2023-08-01,2026-08-01,12000,1.0,21.0,29.7,3,CM,4,CLP
+8,Bolígrafo Azul,"Bolígrafo de tinta azul",2023-08-01,2026-08-01,2500,0.5,1.2,1.2,5,CM,4,CLP
+9,Estuche Multiusos,"Estuche para útiles escolares",2023-09-01,2026-09-01,15000,4.0,20.0,5.0,1,M,4,CLP
+10,Termo Metálico,"Termo de acero inoxidable",2024-05-01,2026-05-01,38000,25.0,8.0,8.0,1,M,5,PEN
+11,Mochila Deportiva,"Mochila con varios compartimientos",2024-05-10,2026-05-10,95000,45.0,35.0,20.0,1,CM,5,PEN
+12,Memoria USB 64GB,"USB 3.1 alta velocidad",2024-04-01,2026-04-01,45000,0.5,6.0,2.0,1,CM,6,USD
+13,Lector de Tarjetas,"Lector múltiple de tarjetas SD",2024-04-15,2026-04-15,20000,1.5,6.0,3.0,1,CM,6,USD
+14,Mousepad Gamer,"Alfombrilla con luces RGB",2024-03-01,2026-03-01,32000,0.3,25.0,35.0,1,M,7,USD
+15,Hub USB,"Hub con 4 puertos USB",2024-03-10,2026-03-10,28000,1.5,10.0,5.0,1,CM,7,USD
+16,Botella Deportiva,"Botella para agua de 750ml",2024-02-01,2026-02-01,18000,25.0,7.0,7.0,2,CM,8,COP
+17,Toalla Microfibra,"Toalla liviana de secado rápido",2024-02-10,2026-02-10,22000,1.0,30.0,50.0,1,M,8,COP
+18,Libro Autoayuda,"Libro de desarrollo personal",2023-11-01,2026-11-01,32000,3.0,15.0,22.0,1,M,9,USD
+19,Agenda 2025,"Agenda diaria de cuero",2024-01-01,2026-01-01,27000,2.0,12.0,20.0,1,M,9,USD
+20,Auriculares USB,"Auriculares con micrófono para PC",2024-06-01,2026-06-01,55000,4.0,16.0,15.0,1,CM,10,USD
+21,Lámpara Escritorio,"Lámpara LED con brazo flexible",2024-06-05,2026-06-05,47000,30.0,10.0,10.0,1,M,10,USD
+22,Almohadilla Ergonómica,"Descansa muñecas para teclado",2024-06-05,2026-06-05,19000,2.0,45.0,5.0,1,M,10,USD
